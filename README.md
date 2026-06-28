@@ -1,8 +1,12 @@
+<div align="center">
+
 # Awesome Loop Engineering
 
 <img src="assets/01-cover-loop-machine.png" alt="Loop Engineering" width="100%">
 
 **English** | [中文](README_zh-CN.md)
+
+</div>
 
 A curated list of awesome resources about Loop Engineering — the discipline of building, operating, and scaling autonomous AI agent loops.
 
