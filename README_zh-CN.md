@@ -23,9 +23,7 @@
 
 构建自主 Agent Loop 的框架、库与工具。
 
-<!-- 格式：
-[项目名](URL) - 一句话描述。作者 @author。
--->
+[loopy](https://github.com/Forward-Future/loopy) - 构建和运行自主 AI Agent Loop 的框架。作者 @Forward-Future。
 
 ## 研究 & 论文
 
@@ -47,4 +45,4 @@
 
 ## 许可证
 
-[MIT](LICENSE) © [peng2219](https://github.com/peng2219)
+[MIT](LICENSE) © [@builderpeng](https://x.com/builderpeng)

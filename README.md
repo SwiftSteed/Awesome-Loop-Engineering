@@ -23,9 +23,7 @@ Blog posts, essays, and deep-dives on agent loop design, harness engineering, an
 
 Frameworks, libraries, and tools for building autonomous agent loops.
 
-<!-- Format:
-[Project Name](URL) - Brief one-line description. By @author.
--->
+[loopy](https://github.com/Forward-Future/loopy) - A framework for building and running autonomous AI agent loops. By @Forward-Future.
 
 ## Research & Papers
 
@@ -47,4 +45,4 @@ Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 
 ## License
 
-[MIT](LICENSE) © [peng2219](https://github.com/peng2219)
+[MIT](LICENSE) © [@builderpeng](https://x.com/builderpeng)
