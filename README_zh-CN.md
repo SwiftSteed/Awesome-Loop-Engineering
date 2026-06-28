@@ -1,5 +1,7 @@
 # Awesome Loop Engineering
 
+<img src="assets/01-cover-loop-machine.png" alt="Loop Engineering" width="100%">
+
 [English](README.md) | **中文**
 
 精选的 Loop Engineering 资源列表——关于构建、运行和规模化自主 AI Agent 循环的工程实践。
