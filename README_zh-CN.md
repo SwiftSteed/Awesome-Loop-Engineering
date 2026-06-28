@@ -17,13 +17,17 @@
 
 [Loop Engineering](https://addyosmani.com/blog/loop-engineering/) - 对 Loop Engineering 这一新兴学科的全面介绍：设计、构建和运行自主 AI Agent 循环。作者 @addyosmani。  
 [WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/mvanhorn/status/2063865685558903149) - 两位真正构建过生产级 AI Agent Loop 的工程师的对谈，讲清楚 Loop 到底是什么、为什么重要。作者 @mvanhorn。  
-[WTF Is a Loop? Part 2: The 15 Loops People Are Actually Running](https://x.com/mvanhorn/article/2068426104088748331) - 15 个正在生产中运行的 Agent Loop 实例目录，附可直接复用的命令。作者 @mvanhorn。
+[WTF Is a Loop? Part 2: The 15 Loops People Are Actually Running](https://x.com/mvanhorn/article/2068426104088748331) - 15 个正在生产中运行的 Agent Loop 实例目录，附可直接复用的命令。作者 @mvanhorn。  
+[Loop Engineering](https://x.com/addyosmani/status/2064127981161959567) - Addy Osmani 对 Loop Engineering 作为一门新学科的阐述，包含自主 Agent Loop 的实践案例。作者 @addyosmani。  
+[Loops Explained: Claude, GPT, Mira and What Actually Works](https://x.com/AnatoliKopadze/status/2068328135611822149) - 对比不同 AI 编程工具的 Agent Loop 实现，分析哪些方法真正有效。作者 @AnatoliKopadze。  
+[Loop Engineering: The 14-Step Roadmap from Prompter to Loop Designer](https://x.com/0xCodez/status/2064374643729773029) - 从基础提示词到设计自主 Agent Loop 的 14 步进阶路线图。作者 @0xCodez。
 
 ## 开源项目
 
 构建自主 Agent Loop 的框架、库与工具。
 
-[loopy](https://github.com/Forward-Future/loopy) - 构建和运行自主 AI Agent Loop 的框架。作者 @Forward-Future。
+[loopy](https://github.com/Forward-Future/loopy) - 构建和运行自主 AI Agent Loop 的框架。作者 @Forward-Future。  
+[Loops](https://loops.elorm.xyz/) - 编程 Agent 的闭环工作流集合，每个 Loop 包含触发器、反馈门和退出条件，Agent 自行推进直到任务完成。
 
 ## 研究 & 论文
 
