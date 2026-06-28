@@ -20,7 +20,10 @@
 [WTF Is a Loop? Part 2: The 15 Loops People Are Actually Running](https://x.com/mvanhorn/article/2068426104088748331) - 15 个正在生产中运行的 Agent Loop 实例目录，附可直接复用的命令。作者 @mvanhorn。  
 [Loop Engineering](https://x.com/addyosmani/status/2064127981161959567) - Addy Osmani 对 Loop Engineering 作为一门新学科的阐述，包含自主 Agent Loop 的实践案例。作者 @addyosmani。  
 [Loops Explained: Claude, GPT, Mira and What Actually Works](https://x.com/AnatoliKopadze/status/2068328135611822149) - 对比不同 AI 编程工具的 Agent Loop 实现，分析哪些方法真正有效。作者 @AnatoliKopadze。  
-[Loop Engineering: The 14-Step Roadmap from Prompter to Loop Designer](https://x.com/0xCodez/status/2064374643729773029) - 从基础提示词到设计自主 Agent Loop 的 14 步进阶路线图。作者 @0xCodez。
+[Loop Engineering: The 14-Step Roadmap from Prompter to Loop Designer](https://x.com/0xCodez/status/2064374643729773029) - 从基础提示词到设计自主 Agent Loop 的 14 步进阶路线图。作者 @0xCodez。  
+[Loops: What Every AI Engineer Needs to Know in 2026](https://x.com/sairahul1/status/2064277888216555684) - 为什么 Loop 正成为 AI 工程师的必备知识，以及当前的技术格局。作者 @sairahul1。  
+[用好 Loop 能让你事半功倍，六个实战场景教你驾驭循环工程](https://x.com/KyrieCheungYep/status/2070333819249627273) - 六个真实 Loop Engineering 场景与实战技巧。作者 @KyrieCheungYep。  
+[Loop Engineering 从 0 到 1 小白完整教程](https://x.com/AdrianPunk115/status/2068947825120223659) - 从零基础到构建第一个自主 Loop 的完整教程。作者 @AdrianPunk115。
 
 ## 开源项目
 
