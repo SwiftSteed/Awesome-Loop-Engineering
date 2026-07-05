@@ -39,6 +39,8 @@ Blog posts, essays, and deep-dives on agent loop design, harness engineering, an
 
 [Loop Engineering 从 0 到 1 小白完整教程](https://x.com/AdrianPunk115/status/2068947825120223659) - A complete beginner's tutorial covering Loop Engineering from zero to building your first autonomous loop (Chinese). By @AdrianPunk115.
 
+[The Fable Loop Library: 25 Workflows on Autopilot](https://x.com/EXM7777/status/2073432521954697653) - run Fable 5 on autopilot, using my own library of loops and goals... 25 workflows, each with a prompt and the exact tool it plugs into. By @EXM7777
+
 ## Open Source Projects
 
 Frameworks, libraries, and tools for building autonomous agent loops.
