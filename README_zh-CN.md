@@ -39,6 +39,8 @@
 
 [Loop Engineering 从 0 到 1 小白完整教程](https://x.com/AdrianPunk115/status/2068947825120223659) - 从零基础到构建第一个自主 Loop 的完整教程。作者 @AdrianPunk115。
 
+[The Fable Loop Library: 25 Workflows on Autopilot](https://x.com/EXM7777/status/2073432521954697653) - Fable 5 自动运行的 25 个工作流程，每个工作流程都包含提示以及它所连接的具体工具。By @EXM7777
+
 ## 开源项目
 
 构建自主 Agent Loop 的框架、库与工具。
